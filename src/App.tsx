@@ -248,9 +248,7 @@ export default function App() {
                   ))}
                 </div>
 
-                <button className="w-full bg-dark text-white py-4 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-gold transition-all duration-300">
-                  Rezerviši ovaj apartman
-                </button>
+                {/* Rezervacija se vrši putem kontakt forme ili telefona */}
               </div>
             </motion.div>
           </motion.div>
