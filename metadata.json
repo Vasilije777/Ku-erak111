@@ -1,0 +1,7 @@
+{
+  "name": "Kućerak111 - Luksuzni Apartmani Vrdnik",
+  "description": "Ultra-moderni turistički smeštaj u srcu Fruške gore. Apartmani sa bazenom, letnjikovcem i prostorom za proslave.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
